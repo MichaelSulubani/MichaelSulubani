@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichaelSulubani
-- 👀 I’m interested in Machine Learning and building Web+Mobile Applications
-- 🌱 I’m currently learning Data Science with IBM
-- 💞️ I’m looking to collaborate on Mobile Apps
+- 👀 I’m interested in Machine Learning and building web applications using Django.
+- 🌱 I’m currently learning Data Science with IBM. 
+- 💞️ I’m looking to forward to learn from the git community, from experienced and skilled individuals.
 - 📫 How to reach me msulubani@sabdigitech.ltd
 
 <!---
