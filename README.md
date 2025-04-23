@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichaelSulubani
-- 👀 I’m interested in Machine Learning and building web applications using Django.
-- 🌱 I’m currently learning Data Science with IBM. 
-- 💞️ I’m looking forward to learn from the git community, from experienced and skilled individuals.
+- 👀 I’m into Machine Learning - Software Development - AI.
+- 🌱 IBM Data Science Professional. 
+- 💞️ I love business processes and workflows.
 - 📫 How to reach me msulubani@sabdigitech.ltd
 
 <!---
